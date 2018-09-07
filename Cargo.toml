@@ -21,7 +21,7 @@ futures = "0.1.23"
 tokio-io = "0.1.7"
 
 [dependencies.tungstenite]
-version = "0.6.0"
+git = "https://github.com/emschwartz/tungstenite-rs"
 default-features = false
 
 [dependencies.bytes]
